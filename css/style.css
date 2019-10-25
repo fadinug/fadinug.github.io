@@ -1,3 +1,20 @@
 .jumbotron img{
-    width: 25%
+    width: 125%
+}
+
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.futuraptbold {
+    font-family: font92806;
+}
+
+.p1x {
+    padding-bottom: 100px;
 }
